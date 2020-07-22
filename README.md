@@ -3,6 +3,10 @@
 A Processing 3 sketch used to live map LED positions for a PixelPusher. The default map must include 8 strips, no LEDs need to be included to start mapping. See blank-map.xml for an example.
 
 ### Controls
+`s` - Backup current map and save a new map.xml
+
+`d` - Dump map to console, used if save fails
+
 `TAB` - Next LED
 
 `~` - Previous LED
@@ -15,7 +19,7 @@ A Processing 3 sketch used to live map LED positions for a PixelPusher. The defa
 
 `Down Arrow` - Move current LED down
 
-`A` - Add LED to current strip
+`a` - Add LED to current strip
 
 `1` - Go to strip 1
 
