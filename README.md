@@ -7,7 +7,7 @@ A Processing 3 sketch used to live map LED positions for a PixelPusher. The defa
 
 `d` - Dump map to console, used if save fails
 
-`scroll wheel` - Scale pattern size
+`SCROLL WHEEL` - Scale pattern size
 
 `SPACE` - Change pattern orientation
 
