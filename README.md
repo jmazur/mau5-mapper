@@ -40,3 +40,5 @@ A Processing 3 sketch used to live map LED positions for a PixelPusher. The defa
 `7` - Go to strip 7
 
 `8` - Go to strip 8
+
+![LED mapper in action](https://i.imgur.com/MYBDxXP.png)
